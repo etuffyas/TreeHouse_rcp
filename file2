@@ -1,2 +1,4 @@
 This is File2
 Change made on master branch.
+This was a change made on file2 after foo_feature merge from file3.
+
